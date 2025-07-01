@@ -6,6 +6,18 @@
 
 <h1 align="center">Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Mi nombre es Marlon, Bienvenido a mi Perfil de Github</h1>
 
+## ⚡🙋‍♂️ About Me
+
+</br>
+
+- 🔧 I’m currently working on ...Online Retail Community App.
+
+- 💡 I’m curious about ...Blockchain and Crypto Currency.
+- 📖 I’m currently learning ...Flask.
+- ❄️ I’m looking to collaborate on ...Open Source Projects.
+- 📫 How to reach me ...gkaustav57@gmail.com.
+
+<hr>
 
 <!-- STACK -->
 <div align="center" width="100">
