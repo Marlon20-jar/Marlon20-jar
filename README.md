@@ -26,9 +26,9 @@ Busco una oportunidad profesional desafiante que me permita seguir creciendo, ap
 
 <hr>
 
-<!-- STACK -->
+<!-- Stack tecnológico -->
 <div align="center" width="100">
-  <h1>Stack</h1>
+  <h1>Stack tecnológico</h1>
   
   <!-- Languages -->
   </br>
