@@ -6,7 +6,9 @@
 
 <h1 align="center">Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Mi nombre es Marlon, Bienvenido a mi Perfil de Github</h1>
 
- <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
+ <p>- <i>Soy una persona proactiva, organizada y responsable, con habilidades sólidas para el trabajo en equipo y buenas relaciones interpersonales. Tengo paciencia y empatía para resolver problemas técnicos, especialmente cuando se trata de apoyar a usuarios internos de software.
+Me adapto con facilidad a entornos cambiantes, disfruto aprender nuevas tecnologías y me esfuerzo por mantenerme actualizado con las tendencias del desarrollo. Tomo decisiones con rapidez y criterio.
+Busco una oportunidad profesional desafiante que me permita seguir creciendo, aportar valor con mis conocimientos y continuar desarrollándome tanto en lo técnico como en lo humano.</i></p>
 
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
