@@ -56,7 +56,6 @@ Busco una oportunidad profesional desafiante que me permita seguir creciendo y a
 - 🔧 Actualmente Trabajando para una empresa en el mantenimiento de un proyecto CRM de captura de información ciudadana.
 - 💡 Interesado en aprender RabbitMq Local para mandar datos masivos auna respetiva tabla de base de datos.
 - 📖 Aprendiendo a usar docker compose para desplegar de forma local proyectos node.js.
-- ❄️ Colaborando en proyectos Open Source.
-- 📫 Contacto: [marlon.jair@outlook.com](https://www.linkedin.com/in/marlon-jair-hern%C3%A1ndez-de-la-rosa-84930525b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 📫 Contacto: marlon.jair@outlook.com
 
 ---
