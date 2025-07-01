@@ -12,7 +12,7 @@
 
 #### 🧠 Lenguajes
 
-<p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px"/>
@@ -24,7 +24,7 @@
 
 #### 🛠️ Frameworks y herramientas
 
-<p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-plain-wordmark.svg" width="40px"/>
@@ -43,11 +43,17 @@
 
 ### 🙋‍♂️ Sobre mí
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" align="right" width="200"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="250px"/>
+</p>
 
-Soy una persona proactiva, organizada y responsable, con habilidades sólidas para el trabajo en equipo y buenas relaciones interpersonales.  
-Me adapto con facilidad a entornos cambiantes, disfruto aprender nuevas tecnologías y me esfuerzo por mantenerme actualizado con las tendencias del desarrollo.  
-Busco una oportunidad profesional desafiante que me permita seguir creciendo y aportar valor con mis conocimientos.
+<p align="center">
+  Soy una persona <strong>proactiva, organizada y responsable</strong>, con habilidades sólidas para el <strong>trabajo en equipo</strong> y buenas relaciones interpersonales.  
+  <br><br>
+  Me adapto con facilidad a <strong>entornos cambiantes</strong>, disfruto aprender nuevas tecnologías y me esfuerzo por mantenerme actualizado con las tendencias del desarrollo.  
+  <br><br>
+  Busco una <strong>oportunidad profesional desafiante</strong> que me permita seguir creciendo y aportar valor con mis conocimientos.
+</p>
 
 ---
 
@@ -60,4 +66,3 @@ Busco una oportunidad profesional desafiante que me permita seguir creciendo y a
 - 📫 Contacto: gkaustav57@gmail.com
 
 ---
-
