@@ -28,6 +28,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,react,docker,dotnet,express,figma,flutter,git,github,gitlab&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=html,jquery,matlab,nodejs,npm,postman,rabbitmq,spring,unity&perline=4"/>
 </p>
 
 ---
