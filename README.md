@@ -17,7 +17,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40px"/>
-  <img src="https://skillicons.dev/icons?i=python,php,dart,cs,cpp&perline=5" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=python&perline=1" width="40px"/>
+   <img src="https://skillicons.dev/icons?i=php&perline=1" width="40px"/>
+   <img src="https://skillicons.dev/icons?i=dart&perline=1" width="40px"/>
+   <img src="https://skillicons.dev/icons?i=cs&perline=1" width="40px"/>
    <img src="https://skillicons.dev/icons?i=cpp&perline=1" width="40px"/>
 </p>
 
