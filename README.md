@@ -33,7 +33,7 @@
 
 #### 🛠️ Base de Datos
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=1"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=4"/>
 </p>
 ---
 
