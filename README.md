@@ -27,7 +27,7 @@
 #### 🛠️ Frameworks y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,react,docker,dotnet,express,figma&perline=4"/>
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,react,docker,dotnet,express,figma,flutter,git,github,gitlab&perline=6"/>
 </p>
 
 ---
