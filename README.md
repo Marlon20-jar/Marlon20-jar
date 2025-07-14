@@ -27,7 +27,7 @@
 #### 🛠️ Frameworks y herramientas
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,react,docker,dotnet,express,figma&perline=4"/>
 </p>
 
 ---
