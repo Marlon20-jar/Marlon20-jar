@@ -31,6 +31,10 @@
   <img src="https://skillicons.dev/icons?i=html,jquery,matlab,nodejs,npm,postman,rabbitmq,spring,unity,windows&perline=5"/>
 </p>
 
+#### 🛠️ Base de Datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=1"/>
+</p>
 ---
 
 ### 🙋‍♂️ Sobre mí
