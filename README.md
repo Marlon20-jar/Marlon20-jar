@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40px"/>
   <img src="https://skillicons.dev/icons?i=python&perline=1" width="40px"/>
    <img src="https://skillicons.dev/icons?i=php&perline=1" width="40px"/>
-   <img src="https://skillicons.dev/icons?i=dart&perline=1" width="40px"/>
+   <img src="https://skillicons.dev/icons?i=dart&perline=1&theme=light" width="40px"/>
    <img src="https://skillicons.dev/icons?i=cs&perline=1" width="40px"/>
    <img src="https://skillicons.dev/icons?i=cpp&perline=1" width="40px"/>
 </p>
