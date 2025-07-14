@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40px"/>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light&perline=3" width="40px"/>
+ <img src="https://skillicons.dev/icons?i=python,go,react,vue&theme=light&perline=4" width="40px"/>
 </p>
 
 #### 🛠️ Frameworks y herramientas
